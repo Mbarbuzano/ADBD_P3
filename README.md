@@ -42,10 +42,10 @@ Si se utiliza el *Query Tool* de pgAdmin, los comandos como `\c` y `CREATE DATAB
 ## Modelos de Datos
 
 ### Modelo Entidad-Relación
-![Modelo Entidad-Relación](modelo_er.png)
+![Modelo Entidad-Relación](ADBD_P2.drawio.png)
 
 ### Modelo Relacional
-![Modelo Relacional](modelo_relacional.png)
+![Modelo Relacional](esquema_relacional.png)
 
 ---
 
@@ -54,34 +54,34 @@ Si se utiliza el *Query Tool* de pgAdmin, los comandos como `\c` y `CREATE DATAB
 A continuación, se muestran las capturas con la salida de los `SELECT` de cada una de las tablas generadas tras la ejecución del script:
 
 ### Tabla: Vivero
-![Tabla Vivero](consultas/vivero.png)
+![Tabla Vivero](vivero.png)
 
 ### Tabla: Zona
-![Tabla Zona](consultas/zona.png)
+![Tabla Zona](zona.png)
 
 ### Tabla: Empleado
-![Tabla Empleado](consultas/empleado.png)
+![Tabla Empleado](empleado.png)
 
 ### Tabla: Producto
-![Tabla Producto](consultas/producto.png)
+![Tabla Producto](producto.png)
 
 ### Tabla: Zona Tiene Producto
-![Tabla Zona Tiene Producto](consultas/zona_tiene_producto.png)
+![Tabla Zona Tiene Producto](zona_tiene_producto.png)
 
 ### Tabla: Cliente
-![Tabla Cliente](consultas/cliente.png)
+![Tabla Cliente](cliente.png)
 
 ### Tabla: Cliente Correo
-![Tabla Cliente Correo](consultas/cliente_correo.png)
+![Tabla Cliente Correo](cliente_correo.png)
 
 ### Tabla: Cliente Bonificación
-![Tabla Cliente Bonificacion](consultas/cliente_bonificacion.png)
+![Tabla Cliente Bonificacion](cliente_bonificacion.png)
 
 ### Tabla: Pedido
-![Tabla Pedido](consultas/pedido.png)
+![Tabla Pedido](pedido.png)
 
 ### Tabla: Pedido Incluye Producto
-![Tabla Pedido Incluye Producto](consultas/pedido_incluye_producto.png)
+![Tabla Pedido Incluye Producto](pedido_incluye_producto.png)
 
 ### Vista: Pedido (con atributo derivado calculado)
-![Vista Pedido (v_pedido)](consultas/v_pedido.png)
+![Vista Pedido (v_pedido)](vista_pedido.png)
