@@ -13,8 +13,7 @@ Este repositorio contiene la resolución de la práctica "Modelo relacional. Viv
 Para cumplir con los requisitos de entrega, el repositorio se organiza de la siguiente manera:
 
 * **`viveros.sql`**: Script SQL único preparado para PostgreSQL que crea la base de datos, define las tablas con sus respectivas restricciones, inserta los datos de ejemplo y ejecuta ejemplos representativos de borrado y actualización.
-* **Modelos:** Imágenes del diseño entidad-relación (`modelo_er.drawio`, `modelo_er.png`) y del modelo relacional (`modelo_relacional.png`).
-* **`consultas/`**: Carpeta que contiene las capturas de pantalla con la salida por consola de hacer un `SELECT` a cada una de las tablas de la base de datos.
+* **Modelos:** Imágenes del diseño entidad-relación y del modelo relacional.
 
 ## Características de la Base de Datos implementada
 
